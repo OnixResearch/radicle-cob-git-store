@@ -1,0 +1,37 @@
+onix-radicle-cob-git-store
+Copyright (c) 2026 cairn contributors
+
+Current owned-source grant
+--------------------------
+The operator authorized AGPL-3.0-or-later for current and new owned material.
+Except for separately identified third-party material or immutable historical
+source, the owned Rust packages, tests, fixtures, templates, contracts, schemas,
+configuration, policy, lifecycle material, and documentation in this repository
+are licensed under the GNU Affero General Public License, version 3 or (at your
+option) any later version. The complete version 3 text is in LICENSE.
+
+This material is distributed without any warranty; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See LICENSE.
+
+Historical grants and third-party terms
+--------------------------------------
+LICENSE-MIT and LICENSE-APACHE retain the original Cairn-contributor license
+texts for earlier grants. Those grants cannot be revoked by this source
+preparation. Byte-identical content already covered by an earlier grant remains
+available under that grant; the permissive texts do not license new owned
+contributions under MIT or Apache-2.0. This notice does not change copyright
+title or the license terms of dependencies or other third-party material.
+
+The immutable 0.20-cohort snapshots af38dae7e0454b1206512794420a3076ea5a8d1f
+and f78168ea4560ce3a3167b5850bc0c1568e1a1abe, and Kiln's 0.21-cohort snapshot
+a87ca01412fb62e69171925d79d2d6b0a23a7e72, retain their original source bytes,
+source identities, and historical grants. No consumer pin or vendor import is
+updated by this preparation.
+
+Publication boundary
+--------------------
+No remote, Radicle RID, GitHub endpoint, or network transport is declared for
+this repository. A separately supplied remote and independent operator
+publication authorization remain prerequisites. This working-tree preparation
+is not publication, a new immutable source identity, or evidence of completed
+release verification.
